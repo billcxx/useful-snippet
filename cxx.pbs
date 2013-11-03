@@ -16,7 +16,7 @@
 #   Request that regular output and terminal output go to the same file
 #
 #PBS -j oe
-#PBS -q 20131103poly
+#PBS -N 20131103poly
 #PBS -M 0001001bill@gmail.com -me
 #
 #   The following is the body of the script. By default,
